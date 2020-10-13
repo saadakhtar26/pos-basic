@@ -2,12 +2,10 @@
 
 This Point of Sale project is built using core PHP
 
+
 ## Usage
 
-Index file should be: 
-```bash
-htdocs/pos/index.php
-```
+Index file should be: ```bash htdocs/pos/index.php```
 
 Home URL:
 [http://localhost/pos/](http://localhost/pos/)
@@ -24,6 +22,7 @@ DB2:
 ```bash
 "hardware"
 ```
+
 
 ## Screenshot
 ![Screenshot](/assets/media/dashboard.png?raw=true "Simple Dashboard")
