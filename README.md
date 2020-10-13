@@ -25,3 +25,5 @@ DB2:
 ```bash
 "hardware"
 ```
+
+![Screenshot](/assets/media/Screenshot_2020-10-13 Tables.png?raw=true "Simple Dashboard")
