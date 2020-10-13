@@ -26,4 +26,4 @@ DB2:
 "hardware"
 ```
 
-![Screenshot](/assets/media/Screenshot_2020-10-13 Tables.png?raw=true "Simple Dashboard")
+![Screenshot](/assets/media/dashboard.png?raw=true "Simple Dashboard")
