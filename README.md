@@ -3,15 +3,15 @@
 This Point of Sale project is built using core PHP
 
 ## Features
-1. Categories
-2. Sub-categories
-3. Customers
-4. Top customers
-5. Products
-6. Top Products
-7. Profit Management
-8. Invoices
-9. Payments
+ 1. Categories
+ 2. Sub-categories
+ 3. Customers
+ 4. Top customers
+ 5. Products
+ 6. Top Products
+ 7. Profit Management
+ 8. Invoices
+ 9. Payments
 10. Reports
 11. Stocks
 12. Debts
