@@ -12,23 +12,21 @@ This Point of Sale project is built using core PHP
  7. Profit Management
  8. Invoices
  9. Payments
-10. Reports
-11. Stocks
-12. Debts
+10. Reports Generation
+11. Stocks (Inventory)
+12. Debts Management
 13. Notifications
 
 ## Usage
 
-Index file should be: ```htdocs/pos/index.php```
+Index file is: ```index.php```
 
 Home URL:
-[http://localhost/pos/](http://localhost/pos/)
+[http://localhost/](http://localhost/)
 
-It needs 2 databases as it is packaged web solution of two joined shops and each has it's own database.
+It needs an SQL database as it is a web solution based on PHP & MySQL technologies.
 
-DB1: ```"ply_wood"```
-
-DB2: ```"hardware"```
+DB1: ```"pos"```
 
 ## Screenshot
 ![Screenshot](/assets/media/dashboard.png?raw=true "Simple Dashboard")
