@@ -28,5 +28,9 @@ It needs an SQL database as it is a web solution based on PHP & MySQL technologi
 
 DB: ```"pos"```
 
+## Live Demo
+
+Visit: [http://pos.saadakhtar.site](http://pos.saadakhtar.site)
+
 ## Screenshot
 ![Screenshot](/assets/media/dashboard.png?raw=true "Simple Dashboard")
