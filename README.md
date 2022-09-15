@@ -26,7 +26,7 @@ Home URL:
 
 It needs an SQL database as it is a web solution based on PHP & MySQL technologies.
 
-DB1: ```"pos"```
+DB: ```"pos"```
 
 ## Screenshot
 ![Screenshot](/assets/media/dashboard.png?raw=true "Simple Dashboard")
